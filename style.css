@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: #CFD8DC;
+}
+
+h1 {
+  color: #37474F;
+  text-align: center;
+}
+
+h3 {
+  color: #37474F;
+  text-align: center;
+}
+
+header {
+  background-color: #42A5F5;
+}
+
+img {
+  height: 400px;
+}
+
+p {
+  color: #37474F;
+  font-size: 20px;
+}
+
+img:hover {
+  border: 5px solid #66BB6A;
+  border-radius: 50%;
+}
